@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <message_centre>
+        <client_id>MCXXX00</client_id>
+        <username>MessageCentre</username>
+        <password>000000</password>
+    </message_centre>
+    <port>10808</port>
+    
+</config>
