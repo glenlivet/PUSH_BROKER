@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payload>
+    <type>_SYSTEM_MSG_</type>
+    <db_msg_id>db_msg_id</db_msg_id>
+    <recipient>
+        <client_id>client_id</client_id>
+        <qos>qos</qos>
+    </recipient>
+    <recipient>
+        <client_id>client_id2</client_id>
+        <qos>qos2</qos>
+    </recipient>
+    ...
+</payload>
